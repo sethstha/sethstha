@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Trying to create Postman alternative in Rust<br>💜  open source<br>🇳🇵Currently Living in Nepal, Love the mountains here<br>🎨 Former Lead Product Designer, Master of Figma<br>🌐 Multiple WordPress Products, Thausands of Users<br>
+💼 Trying to create Postman alternative in Rust<br>💜  Open Source Lover - Contributing to Zed - Next-Generation Code Editor <br>🇳🇵Currently Living in Nepal, Love the mountains here<br>🎨 Former Lead Product Designer, Master of Figma<br>🌐 Multiple WordPress Products, Thausands of Users<br>
 
 
 ## 🌐 Socials:
